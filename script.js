@@ -1,0 +1,1 @@
+let a = "i love nepal abc "
